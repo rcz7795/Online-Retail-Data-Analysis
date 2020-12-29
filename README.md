@@ -2,7 +2,7 @@
 
 ![ML](https://img.shields.io/badge/ML-Customer_Segementation-blue.svg) 
 
-![logo](Snips/Hotel_logo.jpg)
+![logo](Snips/Logo.jpg)
 
 ## Business Objectives :
 
