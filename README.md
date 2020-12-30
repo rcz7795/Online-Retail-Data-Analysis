@@ -29,7 +29,7 @@ The following modelling approach was used in the project:
 
 The detailed analysis and model creation can be found in the .ipynb file. 
 
-## Conclusion :
+## Conclusions :
 
 At this juncture, it makes sense to show interested stakeholders the cluster solutions and get their input. The decision should be based upon how the business plans to use the results, and the level of granularity they want to see in the clusters. 
 
